@@ -1,0 +1,18 @@
+{
+  "name": "@inscrib3/rust-runestone-bridge-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "rust-runestone-bridge.linux-arm-gnueabihf.node",
+  "files": [
+    "rust-runestone-bridge.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
