@@ -43,23 +43,6 @@
     "version": "napi version"
   },
   "packageManager": "yarn@4.1.1",
-  "optionalDependencies": {
-    "@inscrib3/rust-runestone-bridge-win32-x64-msvc": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-darwin-x64": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-x64-gnu": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-darwin-arm64": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-android-arm64": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-arm64-gnu": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-arm64-musl": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-win32-arm64-msvc": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-arm-gnueabihf": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-arm-musleabihf": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-x64-musl": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-win32-ia32-msvc": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-android-arm-eabi": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-darwin-universal": "0.0.1",
-    "@inscrib3/rust-runestone-bridge-linux-riscv64-gnu": "0.0.1"
-  },
-  "repository": "https://github.com/inscrib3/rust-runestone-bridge",
+  "repository": "https://github.com/inscrib4/rust-runestone-bridge",
   "description": "Rust Bridge for runestone protocol"
 }
