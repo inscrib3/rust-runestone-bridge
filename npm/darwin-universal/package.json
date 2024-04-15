@@ -8,8 +8,10 @@
   "files": [
     "rust-runestone-bridge.darwin-universal.node"
   ],
+  "description": "Rust Bridge for runestone protocol",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/inscrib3/rust-runestone-bridge"
 }
