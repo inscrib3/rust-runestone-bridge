@@ -43,6 +43,9 @@
     "version": "napi version"
   },
   "packageManager": "yarn@4.1.1",
-  "repository": "https://github.com/inscrib4/rust-runestone-bridge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inscrib3/rust-runestone-bridge"
+  },
   "description": "Rust Bridge for runestone protocol"
 }
