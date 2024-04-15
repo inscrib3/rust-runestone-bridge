@@ -7,9 +7,13 @@ version = "0.0.0"
 crate-type = ["cdylib"]
 
 [dependencies]
+bitcoin = { version = "0.30.1", features = ["rand"] }
+hex = "0.4.3"
 # Default enable napi4 feature, see https://nodejs.org/api/n-api.html#node-api-version-matrix
-napi = { version = "2.12.2", default-features = false, features = ["napi4"] }
+napi = { version = "2.12.2", default-features = false, features = ["napi4", "napi6"] }
 napi-derive = "2.12.2"
+ordinals = "0.0.7"
+
 
 [build-dependencies]
 napi-build = "2.0.1"
